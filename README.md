@@ -86,7 +86,7 @@ Simple command-line tool, no GUI needed
 
 ```bash
 # Clone the repository
-git clone https://github.com/alxgraphy/readme-generator.git
+git clone https://github.com/alxgraphy/readme-maker.git
 cd readme-generator
 
 # Install dependencies
@@ -111,7 +111,7 @@ python3 cli.py generate --path /path/to/your/project
 
 **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/alxgraphy/readme-generator.git
+git clone https://github.com/alxgraphy/readme-maker.git
 cd readme-generator
 ```
 
