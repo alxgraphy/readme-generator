@@ -86,7 +86,7 @@ Simple command-line tool, no GUI needed
 
 ```bash
 # Clone the repository
-git clone https://github.com/alxgraphy/readme-maker.git
+git clone https://github.com/alxgraphy/readme-generator.git
 cd readme-generator
 
 # Install dependencies
@@ -111,7 +111,7 @@ python3 cli.py generate --path /path/to/your/project
 
 **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/alxgraphy/readme-maker.git
+git clone https://github.com/alxgraphy/readme-generator.git
 cd readme-generator
 ```
 
@@ -228,7 +228,6 @@ readme-generator/
 │   ├── detector.py      # Technology detection
 │   ├── template.py      # README template generation
 │   └── enhancer.py      # AI enhancement (optional)
-├── examples/            # Example generated READMEs
 ├── cli.py               # Main CLI entry point
 ├── requirements.txt     # Python dependencies
 ├── .gitignore          # Git ignore rules
@@ -259,8 +258,6 @@ The generated README includes:
 ✅ Project structure tree  
 ✅ Contributing guidelines  
 ✅ License information  
-
-See `examples/` folder for sample outputs.
 
 ---
 
